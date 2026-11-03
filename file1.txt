@@ -1,0 +1,13 @@
+Artificial intelligence is one of the most important technologies of the modern world. It enables computers to perform tasks that normally require human intelligence.
+
+Object oriented programming is a programming paradigm based on the concept of objects and classes. A class defines the properties and behavior of an object.
+
+The four major principles of object oriented programming are encapsulation, abstraction, inheritance, and polymorphism. These principles help developers create programs that are modular, reusable, and easier to maintain.
+
+Encapsulation is the process of combining data and functions into a single unit called a class. It also helps protect data from direct access.
+
+Inheritance allows a new class to acquire the properties and functions of an existing class. It improves code reusability and reduces duplication.
+
+Polymorphism means the ability of one interface to have multiple implementations. In C++, polymorphism can be achieved using function overloading and virtual functions.
+
+Object oriented programming is widely used in software development because it makes large programs easier to organize and maintain.
